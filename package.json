@@ -1,0 +1,24 @@
+{
+  "name": "@freeliu/browser-storage",
+  "version": "1.0.2",
+  "description": "a simple control of browser's localStorage and sessionStorage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "p": "npm publish --access=public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freeliu/simple-browser-storage.git"
+  },
+  "keywords": [
+    "localStorage",
+    "sessionStorage"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freeliu/simple-browser-storage/issues"
+  },
+  "homepage": "https://github.com/freeliu/simple-browser-storage#readme"
+}
