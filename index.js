@@ -36,11 +36,11 @@ export function localSet(name, value, expried) {
 export default {
     session: {
         set: sessionSet,
-        get: name=>sessionStorage.name
+        get: name=>sessionStorage[name]
     },
     local: {
         set: localSet,
-        get: name=>localStorage.name
+        get: name=>localStorage[name]
     }
 
 }

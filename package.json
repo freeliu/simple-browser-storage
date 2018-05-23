@@ -1,6 +1,6 @@
 {
   "name": "@freeliu/browser-storage",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "description": "a simple control of browser's localStorage and sessionStorage",
   "main": "index.js",
   "scripts": {
